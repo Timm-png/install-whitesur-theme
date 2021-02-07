@@ -6,6 +6,6 @@ git clone https://github.com/vinceliuice/WhiteSur-icon-theme
 ./WhiteSur-icon-theme/install.sh
 ./WhiteSur-gtk-theme/install.sh 
 
-sudo rm -rf McMojave-cursors/
-sudo rm -rf WhiteSur-gtk-theme/
-sudo rm -rf WhiteSur-icon-theme/
+sudo rm -f McMojave-cursors/
+sudo rm -f WhiteSur-gtk-theme/
+sudo rm -f WhiteSur-icon-theme/

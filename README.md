@@ -12,5 +12,6 @@ rm -r install-whitesur-theme
 or
 
 ```bash
-git clone https://github.com/Timm-png/install-whitesur-theme && cd install-whitesur-theme && ./quick-install-whitesur-gtk-theme.sh && cd ../ && rm -r install-whitesur-theme
+git clone https://github.com/Timm-png/install-whitesur-theme && cd install-whitesur-theme \
+&& ./quick-install-whitesur-gtk-theme.sh && cd ../ && rm -r install-whitesur-theme
 ```
